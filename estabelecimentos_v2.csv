@@ -1,0 +1,51 @@
+id_estabelecimento,tipo_comercio,cidade,volume_estimado
+1,Atacado,Diadema,703.8
+2,Padaria,Campinas,427.51
+3,Padaria,São Bernardo do Campo,505.9
+4,Atacado,São Paulo,701.67
+5,Restaurante,São Paulo,66.51
+6,Hortifruti,Diadema,356.97
+7,Padaria,Osasco,974.44
+8,Restaurante,São Bernardo do Campo,601.11
+9,Atacado,São Bernardo do Campo,291.51
+10,Restaurante,São Paulo,545.64
+11,Supermercado,Campinas,375.52
+12,Padaria,Santo André,555.63
+13,Atacado,Mogi das Cruzes,169.45
+14,Hortifruti,Santo André,176.08
+15,Atacado,São Bernardo do Campo,186.37
+16,Hortifruti,Santo André,942.83
+17,Atacado,São Paulo,746.25
+18,Restaurante,São Paulo,204.26
+19,Restaurante,Diadema,228.93
+20,Restaurante,São Bernardo do Campo,744.29
+21,Supermercado,Diadema,198.36
+22,Hortifruti,São Bernardo do Campo,272.83
+23,Restaurante,Mogi das Cruzes,965.18
+24,Supermercado,Mogi das Cruzes,292.54
+25,Hortifruti,Osasco,678.55
+26,Atacado,São Bernardo do Campo,979.7
+27,Supermercado,Campinas,405.58
+28,Padaria,Santo André,66.64
+29,Supermercado,São Bernardo do Campo,281.94
+30,Supermercado,Guarulhos,839.33
+31,Hortifruti,Osasco,871.38
+32,Atacado,Guarulhos,780.09
+33,Padaria,São Paulo,157.45
+34,Restaurante,Mogi das Cruzes,805.73
+35,Restaurante,Santo André,922.74
+36,Supermercado,São Bernardo do Campo,620.58
+37,Hortifruti,Guarulhos,943.83
+38,Hortifruti,Santo André,835.5
+39,Restaurante,São Paulo,683.62
+40,Padaria,Mogi das Cruzes,598.33
+41,Atacado,Campinas,381.14
+42,Padaria,Osasco,201.32
+43,Atacado,Santo André,624.71
+44,Restaurante,Santo André,352.21
+45,Atacado,Campinas,873.12
+46,Hortifruti,Santo André,993.67
+47,Supermercado,São Paulo,764.81
+48,Supermercado,São Paulo,135.96
+49,Restaurante,Campinas,324.25
+50,Hortifruti,Osasco,153.65

@@ -1,0 +1,21 @@
+id_produto,nome,categoria,preco_medio,perecibilidade_dias
+1,Arroz 5kg,Grãos,25.0,365
+2,Feijão 1kg,Grãos,8.5,180
+3,Macarrão 500g,Massas,4.0,365
+4,Leite Integral 1L,Laticínios,5.5,120
+5,Óleo de Soja 900ml,Óleos,7.0,365
+6,Açúcar 1kg,Mercearia,4.5,365
+7,Café 500g,Mercearia,18.0,180
+8,Maçã (kg),Frutas,9.0,15
+9,Banana (kg),Frutas,6.0,7
+10,Batata (kg),Legumes,5.0,20
+11,Cebola (kg),Legumes,4.5,30
+12,Ovos (Dúzia),Proteína,12.0,30
+13,Frango (kg),Proteína,15.0,90
+14,Pão Francês (unidade),Padaria,0.5,2
+15,Iogurte 170g,Laticínios,3.0,30
+16,Farinha de Trigo 1kg,Mercearia,5.5,180
+17,Cenoura (kg),Legumes,6.0,20
+18,Tomate (kg),Legumes,8.0,10
+19,Sardinha em Lata,Proteína,4.5,730
+20,Bolacha Salgada,Mercearia,3.5,180
