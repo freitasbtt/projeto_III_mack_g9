@@ -1,0 +1,501 @@
+id_usuario,renda_per_capita,recebe_beneficio,qtd_moradores,cidade
+1,401.4,True,3,Guarulhos
+2,209.72,True,3,Guarulhos
+3,172.97,True,4,Osasco
+4,150.57,True,1,São Paulo
+5,294.98,True,5,Diadema
+6,294.97,True,4,Campinas
+7,747.95,False,1,Diadema
+8,195.52,True,6,Campinas
+9,511.74,True,6,Osasco
+10,168.96,True,1,Santo André
+11,53.46,True,2,Diadema
+12,691.35,True,5,Santo André
+13,189.85,True,4,Mogi das Cruzes
+14,85.67,True,2,São Paulo
+15,307.55,True,2,São Paulo
+16,308.32,True,3,São Bernardo do Campo
+17,101.11,True,3,Osasco
+18,474.56,True,4,Santo André
+19,1011.52,False,3,Guarulhos
+20,98.93,True,3,Campinas
+21,1138.36,False,4,São Paulo
+22,286.93,True,1,Diadema
+23,99.08,True,2,Campinas
+24,111.55,True,4,Campinas
+25,1028.53,False,6,São Bernardo do Campo
+26,181.91,True,3,Santo André
+27,83.55,True,3,São Paulo
+28,136.39,True,2,Campinas
+29,1124.65,False,3,São Paulo
+30,241.62,True,3,Guarulhos
+31,1135.32,True,2,São Bernardo do Campo
+32,302.05,True,2,Guarulhos
+33,250.68,True,3,São Paulo
+34,1375.96,False,1,Mogi das Cruzes
+35,212.23,True,3,Diadema
+36,612.69,True,2,São Paulo
+37,921.75,False,3,Santo André
+38,266.57,True,2,Campinas
+39,1189.38,False,6,Campinas
+40,433.35,True,4,Guarulhos
+41,278.43,True,4,Diadema
+42,133.19,True,5,São Bernardo do Campo
+43,55.78,True,3,Mogi das Cruzes
+44,202.77,True,1,Osasco
+45,93.48,True,3,Diadema
+46,161.3,True,4,Campinas
+47,102.37,True,4,Santo André
+48,137.37,True,3,Diadema
+49,485.25,True,2,Guarulhos
+50,81.06,True,2,Guarulhos
+51,212.89,True,3,Osasco
+52,180.22,True,4,Santo André
+53,207.84,True,4,São Bernardo do Campo
+54,1337.85,False,3,Diadema
+55,510.18,True,8,Santo André
+56,667.95,True,4,São Bernardo do Campo
+57,64.87,True,2,Santo André
+58,314.44,True,2,Santo André
+59,57.6,True,2,São Paulo
+60,104.66,True,2,Guarulhos
+61,981.02,False,2,Diadema
+62,351.15,True,2,Santo André
+63,622.6,True,2,Diadema
+64,392.74,True,2,Osasco
+65,905.06,False,6,Santo André
+66,483.29,True,1,Campinas
+67,73.68,True,3,Guarulhos
+68,184.77,True,3,Campinas
+69,62.52,True,8,Diadema
+70,215.8,True,2,Diadema
+71,179.74,True,3,Guarulhos
+72,847.09,False,7,Diadema
+73,710.89,False,6,Campinas
+74,187.0,True,5,Santo André
+75,563.24,True,2,Santo André
+76,172.47,True,2,São Paulo
+77,1250.75,True,4,Osasco
+78,255.06,True,6,Diadema
+79,110.22,True,4,Campinas
+80,69.47,True,4,Diadema
+81,639.33,True,2,Diadema
+82,154.71,True,5,São Bernardo do Campo
+83,380.15,True,2,São Paulo
+84,751.81,True,3,Campinas
+85,102.25,True,3,Campinas
+86,104.63,True,3,Diadema
+87,1221.37,False,2,São Paulo
+88,529.49,True,2,Santo André
+89,199.05,True,4,Campinas
+90,129.33,True,2,Santo André
+91,70.09,True,4,São Paulo
+92,566.35,True,2,Santo André
+93,589.5,True,3,Guarulhos
+94,492.34,True,3,São Bernardo do Campo
+95,179.52,True,1,Mogi das Cruzes
+96,132.96,True,3,Campinas
+97,1075.53,False,2,Osasco
+98,427.21,True,1,São Bernardo do Campo
+99,724.92,False,8,Mogi das Cruzes
+100,783.06,True,3,Santo André
+101,55.28,True,5,Campinas
+102,528.93,True,2,Santo André
+103,372.09,True,4,Guarulhos
+104,466.67,True,5,São Paulo
+105,202.47,True,4,Campinas
+106,340.41,True,3,Mogi das Cruzes
+107,118.94,True,3,Mogi das Cruzes
+108,586.95,True,3,Guarulhos
+109,330.42,True,6,Guarulhos
+110,761.27,False,5,Diadema
+111,911.27,False,7,Campinas
+112,77.09,True,2,Santo André
+113,671.76,True,4,Osasco
+114,185.76,True,7,Mogi das Cruzes
+115,1153.55,False,2,Mogi das Cruzes
+116,1321.38,False,1,Guarulhos
+117,185.02,True,4,São Bernardo do Campo
+118,309.86,True,4,Guarulhos
+119,653.68,True,5,Osasco
+120,140.61,True,2,Santo André
+121,612.22,True,5,Santo André
+122,655.4,True,2,São Bernardo do Campo
+123,373.87,True,2,Mogi das Cruzes
+124,272.6,True,2,Guarulhos
+125,88.29,True,5,Diadema
+126,121.75,True,4,Santo André
+127,187.43,True,3,Osasco
+128,1313.82,False,3,Campinas
+129,711.9,False,6,São Paulo
+130,1067.08,False,3,São Paulo
+131,120.13,True,5,São Paulo
+132,87.31,True,3,Diadema
+133,791.51,True,3,Mogi das Cruzes
+134,945.02,True,3,Guarulhos
+135,208.41,True,3,São Bernardo do Campo
+136,376.4,True,4,Diadema
+137,137.16,True,3,Diadema
+138,561.37,True,2,Santo André
+139,396.09,True,6,Campinas
+140,213.26,True,3,Diadema
+141,687.71,True,3,Osasco
+142,341.62,True,6,Campinas
+143,133.54,True,4,Osasco
+144,919.12,False,2,Mogi das Cruzes
+145,357.72,True,7,Guarulhos
+146,56.2,True,4,São Paulo
+147,515.86,True,3,Diadema
+148,463.8,True,2,Guarulhos
+149,58.65,True,5,Mogi das Cruzes
+150,96.81,True,4,São Bernardo do Campo
+151,1347.33,False,3,São Bernardo do Campo
+152,335.67,True,6,Mogi das Cruzes
+153,289.56,True,5,Osasco
+154,457.36,True,2,Santo André
+155,215.59,True,3,Santo André
+156,90.67,True,2,Osasco
+157,162.92,True,4,São Bernardo do Campo
+158,589.91,True,1,São Bernardo do Campo
+159,89.92,True,4,Diadema
+160,172.34,True,5,São Bernardo do Campo
+161,111.79,True,6,Guarulhos
+162,526.93,True,3,São Bernardo do Campo
+163,156.43,True,5,Campinas
+164,1084.72,False,2,Diadema
+165,770.65,False,5,São Paulo
+166,190.33,True,2,São Bernardo do Campo
+167,103.89,True,3,Osasco
+168,309.83,True,5,São Paulo
+169,56.85,True,2,Guarulhos
+170,149.27,True,2,Osasco
+171,1184.68,False,4,São Paulo
+172,227.08,True,4,Osasco
+173,468.39,True,4,Guarulhos
+174,329.3,True,4,Diadema
+175,1161.85,False,3,Campinas
+176,79.29,True,2,Guarulhos
+177,166.08,True,3,Guarulhos
+178,407.34,True,2,Osasco
+179,675.19,True,6,Diadema
+180,285.97,True,4,Mogi das Cruzes
+181,385.1,True,3,Santo André
+182,274.26,True,3,São Bernardo do Campo
+183,1358.91,False,7,São Bernardo do Campo
+184,197.39,True,2,Campinas
+185,344.62,True,4,Campinas
+186,160.88,True,3,São Bernardo do Campo
+187,1283.14,False,4,Santo André
+188,143.27,True,1,São Bernardo do Campo
+189,138.98,True,6,Mogi das Cruzes
+190,336.78,True,7,Santo André
+191,264.34,True,4,Campinas
+192,200.73,True,4,São Paulo
+193,201.27,True,6,Osasco
+194,1153.34,True,4,Mogi das Cruzes
+195,384.11,True,2,Mogi das Cruzes
+196,953.19,False,4,Diadema
+197,572.54,True,4,Campinas
+198,200.71,True,3,Campinas
+199,1332.4,True,4,Guarulhos
+200,1256.81,False,7,Mogi das Cruzes
+201,1159.63,False,6,Guarulhos
+202,766.32,True,3,Guarulhos
+203,820.95,False,2,Osasco
+204,200.96,True,8,Guarulhos
+205,514.33,True,5,Santo André
+206,51.55,True,2,São Bernardo do Campo
+207,268.42,True,6,São Paulo
+208,161.47,True,6,Campinas
+209,50.85,True,3,Santo André
+210,820.37,False,4,São Paulo
+211,142.19,True,3,Mogi das Cruzes
+212,555.95,True,1,Mogi das Cruzes
+213,536.51,True,3,Mogi das Cruzes
+214,328.22,True,5,Santo André
+215,1209.09,False,1,Santo André
+216,874.26,True,3,Campinas
+217,377.47,True,3,São Bernardo do Campo
+218,582.54,True,3,Diadema
+219,159.14,True,6,Guarulhos
+220,192.67,True,3,Mogi das Cruzes
+221,1170.62,False,3,Osasco
+222,495.77,True,4,São Bernardo do Campo
+223,264.62,True,3,Osasco
+224,398.08,True,2,Campinas
+225,94.55,True,3,Campinas
+226,337.82,True,2,Campinas
+227,692.86,True,2,São Paulo
+228,984.13,False,3,Osasco
+229,199.86,True,3,São Bernardo do Campo
+230,1151.95,False,6,Diadema
+231,183.53,True,3,São Bernardo do Campo
+232,134.44,True,4,Santo André
+233,499.95,True,4,Santo André
+234,458.86,True,1,Mogi das Cruzes
+235,82.8,True,4,Diadema
+236,171.37,True,2,Santo André
+237,904.94,False,7,Campinas
+238,54.09,True,2,São Bernardo do Campo
+239,533.35,True,3,Osasco
+240,305.25,True,1,Campinas
+241,677.0,True,8,São Paulo
+242,683.56,True,3,Santo André
+243,664.54,True,4,Campinas
+244,967.96,False,1,Campinas
+245,52.6,True,4,São Paulo
+246,671.09,True,2,Guarulhos
+247,121.93,True,6,São Bernardo do Campo
+248,212.4,True,2,Osasco
+249,688.28,True,2,Mogi das Cruzes
+250,193.31,True,1,Guarulhos
+251,99.47,True,3,Santo André
+252,406.54,True,4,Campinas
+253,192.99,True,1,Diadema
+254,373.34,True,5,São Paulo
+255,826.49,False,3,São Paulo
+256,1099.54,False,3,Diadema
+257,207.27,True,3,São Bernardo do Campo
+258,166.93,True,3,Guarulhos
+259,145.77,True,4,Mogi das Cruzes
+260,775.51,False,2,São Bernardo do Campo
+261,1140.58,False,2,Diadema
+262,1404.99,True,6,Campinas
+263,73.53,True,7,Diadema
+264,137.08,True,3,São Bernardo do Campo
+265,1325.55,True,2,Osasco
+266,579.75,True,4,São Paulo
+267,558.45,True,3,São Paulo
+268,1202.25,False,1,Santo André
+269,394.07,True,2,Santo André
+270,99.32,True,4,Diadema
+271,1277.6,False,4,Mogi das Cruzes
+272,186.1,True,1,Campinas
+273,641.26,True,2,Osasco
+274,1350.83,False,2,Guarulhos
+275,135.91,True,4,São Bernardo do Campo
+276,134.25,True,1,Mogi das Cruzes
+277,184.11,True,2,Campinas
+278,535.53,True,5,Santo André
+279,167.93,True,2,Diadema
+280,606.55,True,4,São Bernardo do Campo
+281,652.43,True,2,Santo André
+282,106.78,True,1,Diadema
+283,401.91,True,2,São Bernardo do Campo
+284,65.79,True,4,Guarulhos
+285,500.62,True,6,Campinas
+286,732.34,True,5,São Bernardo do Campo
+287,1035.25,True,3,Osasco
+288,141.16,True,4,Mogi das Cruzes
+289,358.55,True,2,São Paulo
+290,149.26,True,2,Osasco
+291,55.12,True,6,Osasco
+292,237.19,True,1,Mogi das Cruzes
+293,619.61,True,1,São Paulo
+294,110.51,True,2,Osasco
+295,280.88,True,1,São Bernardo do Campo
+296,473.33,True,2,São Bernardo do Campo
+297,593.99,True,4,São Bernardo do Campo
+298,86.26,True,3,São Paulo
+299,154.65,True,6,Osasco
+300,767.17,True,5,Diadema
+301,743.44,False,3,São Paulo
+302,477.77,True,2,São Bernardo do Campo
+303,1088.15,False,3,Mogi das Cruzes
+304,529.43,True,4,Osasco
+305,171.98,True,2,Osasco
+306,213.94,True,4,Santo André
+307,136.74,True,3,Santo André
+308,934.68,False,4,Guarulhos
+309,606.26,True,3,Diadema
+310,897.94,False,2,Diadema
+311,1016.47,False,7,Campinas
+312,63.18,True,5,Diadema
+313,54.26,True,2,Santo André
+314,211.72,True,6,São Paulo
+315,626.12,True,3,Diadema
+316,1197.66,False,6,Santo André
+317,418.16,True,5,Guarulhos
+318,303.39,True,3,Osasco
+319,76.28,True,1,Diadema
+320,883.42,False,2,Guarulhos
+321,1094.2,False,3,Osasco
+322,1210.79,False,4,Mogi das Cruzes
+323,1172.44,False,2,Mogi das Cruzes
+324,904.35,False,2,Osasco
+325,210.42,True,5,Diadema
+326,578.36,True,8,Campinas
+327,143.13,True,3,Santo André
+328,1138.26,False,2,São Paulo
+329,1002.82,True,2,São Paulo
+330,881.65,False,1,São Bernardo do Campo
+331,957.96,False,6,Osasco
+332,177.32,True,2,São Paulo
+333,226.01,True,4,Diadema
+334,69.5,True,2,Campinas
+335,739.43,True,4,Osasco
+336,735.71,False,4,Campinas
+337,193.72,True,5,Diadema
+338,1203.08,False,2,São Paulo
+339,449.92,True,1,São Paulo
+340,66.44,True,2,São Bernardo do Campo
+341,458.42,True,6,São Paulo
+342,129.54,True,6,Osasco
+343,79.1,True,4,Diadema
+344,122.89,True,4,Mogi das Cruzes
+345,116.95,True,4,Diadema
+346,1141.17,False,2,Osasco
+347,1154.74,False,6,Osasco
+348,57.61,True,3,São Bernardo do Campo
+349,401.44,True,3,São Bernardo do Campo
+350,155.14,True,3,São Paulo
+351,1061.71,False,1,Guarulhos
+352,636.11,True,2,Diadema
+353,1171.38,True,4,Diadema
+354,77.37,True,1,Guarulhos
+355,756.75,True,4,São Bernardo do Campo
+356,157.93,True,2,São Paulo
+357,725.69,True,3,Guarulhos
+358,148.41,True,2,São Paulo
+359,207.96,True,3,São Paulo
+360,499.26,True,4,São Paulo
+361,408.04,True,2,Santo André
+362,158.07,True,4,Osasco
+363,442.17,True,3,São Paulo
+364,484.72,True,4,Santo André
+365,208.17,True,7,São Bernardo do Campo
+366,407.03,True,4,Guarulhos
+367,211.48,True,2,Osasco
+368,659.91,True,1,Mogi das Cruzes
+369,82.89,True,2,Guarulhos
+370,755.9,True,4,Osasco
+371,268.08,True,1,Mogi das Cruzes
+372,227.87,True,3,Guarulhos
+373,264.99,True,4,Osasco
+374,551.62,True,3,Guarulhos
+375,61.96,True,5,Guarulhos
+376,103.59,True,2,Mogi das Cruzes
+377,630.45,True,1,Guarulhos
+378,53.91,True,4,Guarulhos
+379,186.83,True,3,Mogi das Cruzes
+380,905.71,True,4,São Bernardo do Campo
+381,276.55,True,3,São Paulo
+382,167.05,True,2,Diadema
+383,155.66,True,5,Campinas
+384,646.33,True,5,Santo André
+385,576.98,True,4,Campinas
+386,184.98,True,2,Campinas
+387,97.38,True,4,Osasco
+388,305.41,True,3,São Paulo
+389,1236.18,True,1,Osasco
+390,611.93,True,6,São Paulo
+391,1405.31,False,2,Mogi das Cruzes
+392,419.94,True,7,Mogi das Cruzes
+393,112.5,True,3,Diadema
+394,597.11,True,2,São Paulo
+395,107.25,True,3,Guarulhos
+396,206.37,True,6,São Bernardo do Campo
+397,637.05,True,4,Diadema
+398,427.92,True,5,Diadema
+399,584.67,True,4,Guarulhos
+400,586.46,True,4,São Bernardo do Campo
+401,269.22,True,5,Osasco
+402,201.63,True,2,São Bernardo do Campo
+403,465.06,True,3,Osasco
+404,1289.65,True,2,Mogi das Cruzes
+405,374.86,True,8,Campinas
+406,200.45,True,7,Mogi das Cruzes
+407,115.39,True,1,Mogi das Cruzes
+408,224.28,True,4,Campinas
+409,659.92,True,6,São Bernardo do Campo
+410,65.34,True,2,Diadema
+411,932.12,False,4,São Bernardo do Campo
+412,681.68,True,6,Osasco
+413,681.95,True,1,Guarulhos
+414,146.34,True,4,Osasco
+415,156.15,True,2,Guarulhos
+416,125.34,True,6,Mogi das Cruzes
+417,99.26,True,8,Campinas
+418,379.06,True,7,Mogi das Cruzes
+419,1181.13,False,3,São Paulo
+420,176.4,True,6,São Bernardo do Campo
+421,604.5,True,5,Guarulhos
+422,603.54,True,3,Osasco
+423,65.32,True,5,Campinas
+424,459.78,True,1,Guarulhos
+425,247.03,True,4,Osasco
+426,142.32,True,2,São Bernardo do Campo
+427,434.03,True,2,Mogi das Cruzes
+428,199.13,True,1,São Bernardo do Campo
+429,389.9,True,4,Santo André
+430,276.01,True,3,São Paulo
+431,74.02,True,4,Santo André
+432,589.86,True,1,Campinas
+433,153.86,True,3,Guarulhos
+434,778.29,False,3,Campinas
+435,259.96,True,5,Mogi das Cruzes
+436,167.76,True,3,Osasco
+437,62.22,True,4,São Bernardo do Campo
+438,1286.41,False,6,Santo André
+439,562.94,True,4,Diadema
+440,764.35,True,2,Santo André
+441,260.32,True,1,Mogi das Cruzes
+442,1402.58,True,6,Santo André
+443,401.27,True,1,Mogi das Cruzes
+444,968.3,True,6,Diadema
+445,1280.02,True,3,Campinas
+446,680.31,True,7,São Bernardo do Campo
+447,699.18,True,5,Guarulhos
+448,585.9,True,8,Osasco
+449,972.26,True,3,Guarulhos
+450,259.66,True,5,Campinas
+451,1254.89,True,3,Osasco
+452,490.94,True,3,Santo André
+453,425.6,True,4,Diadema
+454,202.27,True,6,Diadema
+455,68.68,True,8,São Paulo
+456,458.91,True,5,Campinas
+457,224.53,True,3,Campinas
+458,447.24,True,3,São Bernardo do Campo
+459,246.42,True,4,Guarulhos
+460,69.96,True,2,Campinas
+461,69.74,True,2,Campinas
+462,159.07,True,3,Santo André
+463,175.34,True,2,Santo André
+464,148.01,True,2,Osasco
+465,687.58,True,2,Mogi das Cruzes
+466,112.98,True,1,Mogi das Cruzes
+467,98.0,True,1,São Paulo
+468,642.01,True,8,Mogi das Cruzes
+469,327.89,True,3,São Bernardo do Campo
+470,211.82,True,3,São Paulo
+471,224.92,True,4,Osasco
+472,691.33,True,2,Santo André
+473,240.02,True,7,Mogi das Cruzes
+474,199.71,True,5,Guarulhos
+475,475.99,True,1,Santo André
+476,1407.04,True,3,Diadema
+477,254.94,True,6,São Bernardo do Campo
+478,488.73,True,7,Santo André
+479,1390.36,True,3,São Bernardo do Campo
+480,473.75,True,4,São Bernardo do Campo
+481,155.74,True,2,São Bernardo do Campo
+482,166.89,True,8,Osasco
+483,126.36,True,2,São Bernardo do Campo
+484,524.62,True,7,São Bernardo do Campo
+485,1118.94,False,4,Diadema
+486,1342.32,True,4,Guarulhos
+487,241.13,True,3,São Paulo
+488,355.83,True,2,Campinas
+489,681.85,True,2,Diadema
+490,652.56,True,2,São Paulo
+491,126.55,True,2,São Bernardo do Campo
+492,154.18,True,5,Guarulhos
+493,354.08,True,3,Santo André
+494,81.6,True,1,Guarulhos
+495,127.9,True,7,Diadema
+496,391.08,True,6,São Bernardo do Campo
+497,503.24,True,6,Guarulhos
+498,63.06,True,8,Mogi das Cruzes
+499,693.53,True,2,Guarulhos
+500,215.68,True,3,São Bernardo do Campo
