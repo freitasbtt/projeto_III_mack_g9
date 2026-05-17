@@ -48,6 +48,16 @@ def main():
 
         metrics = out['out05']['metrics'][0] if isinstance(out['out05']['metrics'][0], dict) else out['out05']['metrics'][0]
 
+        # extrai tamanhos de treino/teste (número de interações)
+        try:
+            interacoes_treino_df = out['out01']['interacoes_treino'][0]
+            interacoes_teste_df = out['out01']['interacoes_teste'][0]
+            n_interacoes_treino = int(len(interacoes_treino_df)) if interacoes_treino_df is not None else None
+            n_interacoes_teste = int(len(interacoes_teste_df)) if interacoes_teste_df is not None else None
+        except Exception:
+            n_interacoes_treino = None
+            n_interacoes_teste = None
+
         row = {}
         row.update(params)
         # add metrics
@@ -56,6 +66,8 @@ def main():
             'recall_at_K': metrics.get('recall_at_K'),
             'mrr_at_K': metrics.get('mrr_at_K'),
             'n_users_evaluated': metrics.get('n_users_evaluated'),
+            'n_interacoes_treino': n_interacoes_treino,
+            'n_interacoes_teste': n_interacoes_teste,
         })
         results.append(row)
 
