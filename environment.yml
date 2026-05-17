@@ -1,0 +1,17 @@
+name: recsys
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - scipy
+  - pyarrow
+  - tqdm
+  - matplotlib
+  - seaborn
+  - pip
+  - pip:
+    - -r requirements.txt

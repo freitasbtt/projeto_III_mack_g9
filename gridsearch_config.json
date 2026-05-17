@@ -1,0 +1,20 @@
+{
+  "nb00": {
+    "seed": 8,
+    "n_usuarios": 5000,
+    "n_produtos": 100,
+    "n_categorias": 10,
+    "n_marcas": 10,
+    "n_ofertas": 20000,
+    "n_elegiveis": 200,
+    "P": 2,
+    "C": 5,
+    "M": 5,
+    "E": 1
+  },
+  "grid": {
+    "n_holdout_per_user": [2, 3, 4],
+    "K_rec": [5, 10, 15],
+    "limiar_sim_util": [0.01, 0.05, 0.1, 0.2]
+  }
+}

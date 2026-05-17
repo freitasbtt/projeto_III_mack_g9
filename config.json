@@ -1,0 +1,23 @@
+{
+  "seed": 8,
+  "n_usuarios": 200,
+  "n_produtos": 50,
+  "n_categorias": 5,
+  "n_marcas": 5,
+  "n_ofertas": 500,
+  "n_elegiveis": 100,
+  "n_copias": 4,
+  "mlt_ofr": 5,
+  "min_renda": 95,
+  "max_renda": 5000,
+  "max_moradores": 10,
+  "tamanho_espaco": 10000,
+  "P": 2,
+  "C": 5,
+  "M": 5,
+  "E": 1,
+  "K_knn": 3,
+  "K_rec": 10,
+  "limiar_sim_util": 0.01,
+  "n_holdout_per_user": 3
+}
