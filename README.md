@@ -69,6 +69,5 @@ A execução do `gridsearch.py` não gera dados intermediários e tem como foco 
 **Notas rápidas**
 - `scripts/` contém notebooks experimentais; podem ser removidos se desejar um repositório limpo.
 - Em grid search, opções de salvar intermediários já são desativadas por padrão (uso interno de `salvar_saida=False`).
-- O arquivo
-
+- O arquivo `grid_result.csv` contido neste repositório foi obtido após execução do `gridsearch.py` sob os parâmetros instituídos em `gridsearch_config.json`.
 
